@@ -1,0 +1,47 @@
+.reclam {
+    background: #ED4C5C;
+}
+
+.reclam__block {
+    width: 100%;
+    position: relative;
+    padding: 0 20px;
+}
+
+.reclam__title {
+    font-weight: 600;
+    font-size: 36px;
+    line-height: 43px;
+    color: #FFFFFF;
+    padding-right: 75px;
+}
+
+.reclam__text {
+    margin: 40px 0;
+    font-size: 14px;
+    line-height: 140%;
+    color: #fff;
+}
+
+.reclam__link {
+    text-decoration: none;
+    margin-right: 23px;
+}
+
+.reclam__img-before {
+    position: absolute;
+    top: 7%;
+    right: 0;
+}
+
+.reclam__img-after {
+    position: absolute;
+    left: 0;
+    top: 7%;
+}
+
+.reclam__img {
+    position: relative;
+    margin: 0 auto;
+    display: block;
+}

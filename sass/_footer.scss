@@ -1,0 +1,37 @@
+.footer {
+    background: #FAFAFA;
+    padding: 100px 0;
+}
+
+.footer__inner {
+    justify-content: space-between;
+}
+
+.footer__block {
+    width: 175px;
+}
+
+.subtitle {
+    font-size: 18px;
+    line-height: 22px;
+    font-weight: 700;
+    margin-bottom: 33px;
+}
+
+.footer__text {
+    font-size: 12px;
+    line-height: 150%;
+    margin-top: 20px;
+}
+
+.footer__link {
+    text-decoration: none;
+    display: block;
+    font-size: 12px;
+    line-height: 160%;
+    margin: 5px 12px 5px 0;
+}
+
+.footer__img{
+    width: 100%;
+}

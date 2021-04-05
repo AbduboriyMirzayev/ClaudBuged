@@ -1,0 +1,49 @@
+.technology {
+    padding: 100px 0;
+}
+
+
+.technology__inner {
+    justify-content: space-between;
+    text-align: center;
+    margin-top: 80px;
+}
+
+.technology__block {
+    width: 255px;
+    padding: 10px;
+}
+
+.technology__img-inner {
+    position: relative;
+    height: 80px;
+    display: flex;
+    align-items: flex-end;
+    justify-content: center;
+}
+
+.technology__num {
+    position: absolute;
+    z-index: 1;
+    top: -60%;
+    font-size: 100px;
+    line-height: 120px;
+    color: rgba(16, 16, 16, 0.08);
+}
+
+.technology__wrapper {
+    margin-top: 12px;
+}
+
+
+.technology__subtitle {
+    font-size: 18px;
+    line-height: 22px;
+    font-weight: 700;
+}
+
+.technology__text {
+    margin: 10px 0;
+    font-size: 12px;
+    line-height: 14px;
+}
